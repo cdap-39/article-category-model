@@ -1,0 +1,1061 @@
+{
+    "took": 54,
+    "timed_out": false,
+    "_shards": {
+        "total": 5,
+        "successful": 5,
+        "skipped": 0,
+        "failed": 0
+    },
+    "hits": {
+        "total": 336,
+        "max_score": 9.75646,
+        "hits": [
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "Professor Carlo Fonseka to receive further treatment",
+                "_score": 9.75646,
+                "_source": {
+                    "content": "Sri Lanka Medical Council chairman professor Carlo Fonseka is receiving further treatment at cardiology unit of the Colombo national hospital. He was admitted to the cardiology unit of the Colombo national hospital due to a sudden illness.  The Director of the Colombo national hospital, Anil Jaasinghe noted that the professor will be subject to further treatment and medical evaluation, even though his condition is not serious."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "Hospital functions continue to be impacted today as GMOA strike continues; Tense situation arises at Chilaw hospital.",
+                "_score": 9.588181,
+                "_source": {
+                    "content": "The strike launched by the GMOA continues on today and is based on five issues.\r\nIssues relating to The Suspension of recruitment of students to Malabe Private Medical School, Gazetting of minimum quality medical education, taking over of Malabe Private Medical School and informing the the Supreme Court of the governments stance are amongst those being voiced .\r\nMeanwhile, Colombo National Hospital spokesman said that treatment for patients suffering from dengue and those admitted to the emergency unit are being care for in the appropriate manner.\r\nPatients who were seeking medical attention expressed the inconveniences being experienced in the following manner.\r\nIn addition a tense situation erupted at Chilaw hospital after an altercation developed between patients and hospital staff.\r\nHospital Director Dr. A.I. Jagoda told our news team that a person who was seeking medical attention initiated a row relating to the GMOA strike.\r\nShe said OPD and clinical services have been crippled due to the strike."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "UK surgeon allowed to work at Karapitiya Hospital",
+                "_score": 9.561263,
+                "_source": {
+                    "content": "Sri Lanka Medical Council has recommended that British surgeon Dr. Richard Permin should be allowed to conduct heart surgeries at the Karapitiya Teaching Hospital as he has the certificate of the UK Medical Council.\r\n \r\nAccordingly, the temporally ban imposed on him has been removed.\r\n \r\nThe Director of the Karapitiya Hospital Dr. Jayampathy Senanayake said relevant information has been passed to concerned parties.\r\n \r\nAfter, Government Medical Officers' Association raised an issuing saying that the surgeon does not have a license to practice, the matter was referred to the SLMC.Earlier, Karapitiya Teaching Hospital Director Dr. Senanayake instructed that the services of visiting surgeon to be temporarily suspended.Dr. Permin frequently visited the Cardiothoracic Unit of the hospital to perform heart surgeries."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "Medical tests disrupted due to Paramedics strike",
+                "_score": 9.457937,
+                "_source": {
+                    "content": "Medical tests of patients have been disrupted due to the current paramedics strike at hospitals in the Western, the Central and the Southern provinces.The Para Medic Trade Unions Federation launched the strike this morning on several demands including denial of promotions to its members.Functions of 112 hospitals in the three provinces including Colombo National Hospital, Ragama Teaching Hospital, Kalubovila Teaching Hospital, Karapitiya Teaching Hospital, Matara General Hospital and Peradeniya Teaching Hospital have been crippled due to the strike.Directors of these hospitals said all medical testing have been disrupted except emergency cases.Meanwhile the strike launched by paramedics in the provinces of Sabaragamuwa, Uva and North West ended at 7am today."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "Doctors protest at the Kegalle General Hospital",
+                "_score": 9.268987,
+                "_source": {
+                    "content": "A group of doctors have launched a protest in front of the Kegalle General Hospital against the private medical college in Malabe.\r\nHiru Correspondent said they are attached to the Government Medical Officers Association."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "Basil in remand custody admitted to National hospital for tests",
+                "_score": 9.155157,
+                "_source": {
+                    "content": "Former Minister Basil Rajapaksa who is currently in remand was admitted to Colombo National Hospital for a medical test this afternoon. Prison Media spokesman Thushara Upuldeniya told our news team that the suspect was admitted to hospital on the advice of prison medical officer. A hospital spokesperson told our news team that former minister Basil Rajapaksa is admitted to Ward No.15. Basil Rajapaksa was arrested and remanded till August 1st for allegedly abusing state funds of the then Divi Neguma Department."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "Petition to medical council requesting an investigation into the death of late Sobitha thero",
+                "_score": 9.127792,
+                "_source": {
+                    "content": "A petition was handed over to the Sri Lankan Medical Council requesting the  initiation of an investigation into the death of late Maduluwawe Sobhitha Thera.\r\nSpeaking to the media, petitioner Rathkarawwe Jinarathana Thera said that there are disputes with regard to the  nature of care received by the Thera following being admitted to the Neville Fernando hospital.\r\nDuring a recent media conference convened by the Neville Fernando hospital, the hospital director Dr. Sameera Senarathna was asked if the late Thera was disturbed by his visitors.\r\nIn related news,  chairman of the hospital Dr. Neville Fernando said that he would sue the president of the Medical council Dr. Carlo Fonseka for 500 million rupees compensation as Dr. Fonseka’s statement to a newspaper had resulted in damaging the reputation of his hospital.\r\nIn the meantime, the Government Medical Officers Association also requested that the ministry of health conduct a proper investigation into the death of the late Thera."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "Hospital activities disrupted from Sabaragamuwa medical strike",
+                "_score": 9.039458,
+                "_source": {
+                    "content": "Hospital operations have been disrupted due to the ongoing strike by Government Medical Officers Association in Sabaragamuwa province against Malabe SAITM private medical college.\r\nThe strike which commenced this morning at 8 am will go on till 8 am tomorrow (02)."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "Protest staged against SAITM in front of Chilaw General Hospital (photos)",
+                "_score": 9.009113,
+                "_source": {
+                    "content": "A protest has been launched in front of the Chilaw General Hospital today against SAITM.According to our correspondent, the hospital staff, doctors and medical students and their parents have participated in the protest.             "
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "Jaffna Med. students marches for Free Education",
+                "_score": 8.966969,
+                "_source": {
+                    "content": "Medical students of University of Jaffna are marching towards the teaching hospital, Jaffna.\r\nThe protest demands to secure free education."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "Unidentified virus in Puttalam and Kalpitiya",
+                "_score": 8.933546,
+                "_source": {
+                    "content": "Medical Superintendent at Puttalam Hospital Sumith Attanayake says that a virus fever with disease symptoms similar to Dengue fever is spreading in Kalpitiya and Puttalam.\r\nThe Superintendent said that as a consequence of this virus, a sudden decrease in the blood platelet count takes place. \r\nOur correspondent said that while this virus fever has spread to Puttalam town and surrounding areas, Puttalam Hospital Physiology Unit and the Children’s Unit are severely overcrowded with patients.\r\nReports say that due to this, patients are lying on benches with great discomfort.\r\nHowever Puttalam Hospital Medical Superintendent Sumith Attanayake told our news team that each patient coming to the hospital was being examined and provided treatment with the utmost diligence."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "Daily clinics halted at Debarawewa Hospital",
+                "_score": 8.804619,
+                "_source": {
+                    "content": "The daily clinics being conducted at Debarawewa Hospital have been suspended due to the lack of medical practitioners.\r\n \r\nAlthough the hospital requires 52 doctors to run the daily clinics, it has only 31 doctors.\r\n \r\nThe Hospital Director said although the authorities have been informed of this, the issue remains."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "Prof. Carlo Fonseka’s health condition is not serious- Dr. Jasinghe",
+                "_score": 8.745407,
+                "_source": {
+                    "content": "Several medical tests have been conducted on Prof. Carlo Fonseka after he was admitted to Colombo National Hospital last night.\r\nHospital Director Dr. Anil Jasinghe told our news team that the condition of Professor Fonseka has returned to normal."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "Higher Education Minister says, SAITM cannot be closed and, SLMC has no hand in it",
+                "_score": 8.734483,
+                "_source": {
+                    "content": "Higher Education Minister Lakshman Kiriella says that the demands to close the Malabe Private Medical School could not be fulfilled.\r\nAddressing a ceremony held in Kandy today, the minister said the private medical school has already been accepted by the Court.\r\nThe government announced a series of proposals to be implemented in order to solve the issue.\r\nOne of the proposals was to take over the Neville Fernando hospital by the Health Ministry.\r\nAmong the other three proposals, the Health Ministry wants to gazette minimum standards for medical education in Sri Lanka.\r\nLater, the GMOA stated that not only Neville Fernando hospital but Malabe Private Medical School also should be taken over by the government.\r\nMeanwhile, Health Minister Rajitha Senarathna expressed his views about the GMOA during a ceremony held at Temple Trees to hand over letters of appointment to one thousand nurses."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "MBBS degree guaranteed at Malabe - says Minister of Higher Education",
+                "_score": 8.729845,
+                "_source": {
+                    "content": "The Dr. Neville Fernando Hospital in Malabe was opened under the patronage of the Prime Minister and the Minister of Higher Education.\r\n \r\nThe hospital was opened as a part of the Malabe Private Medical Hospital.\r\n \r\nMinister of Higher Education S. B. Dissanayaka made the following statement while addressing the gathering at the opening ceremony."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "Shard of glass found in vaccine vial in Marawila Hospital",
+                "_score": 8.671447,
+                "_source": {
+                    "content": "The Health Service Trade Union Alliance states that a shard of glass had been discovered inside a vaccination vial in the intensive care unit of the Marawila General Hospital.\r\n\r\nChairman of the HSTUA Saman Rathnapriya stated that this shard of glass was discovered inside vial of anti biotic named Meropenem and that subsequently the doctors had notified the medical director.\r\n\r\nOur news team inquired from the medical director of the Marawila General Hospital Dimuth Ponweera regarding this and he stated that the vial had been sent to the ministry of health."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "Complaint filed against SAITM CEO",
+                "_score": 8.611903,
+                "_source": {
+                    "content": "The All Ceylon Medical Officers Association filed a complaint with police headquarters against SAITM CEO Dr. Sameera Senaratne this morning.\r\nThe Association charges that Dr. Senaratne poses as a medical doctor without having registration with the Sri Lanka Medical Council.\r\nNational Organizer of the All Ceylon Medical Officers Association Dr. Sameera Asanga commented on the complaint to our news team.\r\nIn addition, doctors attached to Karapitiya Teaching Hospital in Galle organized a public meeting against SAITM in Galle yesterday.\r\nMeanwhile, Public Rights Protection Collective distributed leaflets to educate people on free education."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "Strike against SAITM extended",
+                "_score": 8.606735,
+                "_source": {
+                    "content": "The trade union action taken by the Government Medical Officers Association of the Central Province against SAITM private medical college in Malabe has caused obstacles to hospital functions in the Central province.\r\nThe token strike that commenced at 8 am this morning was due to be over by 12 noon.\r\nHowever, it was decided to extend the strike till 8 am tomorrow, said Government Medical officers Association Kandy branch secretary Dr. Sampath Athapattu in reply to inquiry by Hiru News Desk."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "Hospital functions disrupted due to doctors strike",
+                "_score": 8.590315,
+                "_source": {
+                    "content": "Activities at government hospitals were disrupted today as a result of an unplanned strike that took place this morning.\r\nOur correspondents stated that OPDs and routine clinics did not function in many hospitals including Colombo National Hospital, Kandy General Hospital, Teaching hospitals at Kalalpitiya and Kalubowila and Ratnapura General Hospital.\r\nGMOA launched a token strike today in protest of the police tear gas attack on the demonstration launched by Medical faculty students yesterday.\r\nYesterday’s protest was staged against the Malabe Private Medical School.\r\nGMOA’s Assistant Secretary Dr. Haritha Aluthge told our news team that his union will resort to a continuous strike unless a solution is given."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "GMOA Launches a Protest Campaign in Several Hospitals",
+                "_score": 8.57075,
+                "_source": {
+                    "content": "The GMOA has launched a protest campaign in several hospitals throughout the island this morning. \r\nThe protest has been launched against the police attack on the demonstration by  medical students demanding the closure of the Malabe Private Medical College.\r\nGMOA General Secretary Dr. Nalinda Herath told our news team his association members are staging the protest during the lunch hour from 12 noon to one o’clock today.\r\nThe protest will be held at 10 hospitals, including the Colombo National Hospital and the Peradeniya Teaching hospital."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "Update : National hospital strike continues",
+                "_score": 8.561721,
+                "_source": {
+                    "content": "Nursing, paramedical and supplementary medical professional services’ united federation says that due to the trade union action they have launched at the Colombo National Hospital, the hospital services have been interruptedHowever, the Deputy Director of the Colombo National Hospital Doctor Cyril de Soyza told our news team that the hospital services are continuing as usual despite the trade union action.14 trade unions belonging to paramedical and supplementary services commenced a trade union action at 8 this morning, based on several demands. Update : Wednesday, 29 July 2015 - 14:01---------------------------------------------A strike at the National Hospital todayNursing, paramedical and supplementary medical professional services’ united federation says that 14 trade unions belonging to paramedical and supplementary service will begin a strike at the Colombo National Hospital from today.General Secretary of the Union Saman Jayasekera said that this strike was launched since there was no positive response from Health Ministry authorities with regard to several demands including non-granting of promotions and allowances."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "Blood testing at Kalubowila teaching hospital stops",
+                "_score": 8.55656,
+                "_source": {
+                    "content": "The Sri Lanka Government Medical Laboratory Technologists’ Union says that blood testing at the Kalubowila Teaching Hospital will be completely stopped as a result of the non-availability of chemical medications used for full blood test carried out on behalf of patients. The union chairman Jaanaka Nishaantha said that this situation had cropped up because of non-payment of money amounting to 14 million rupees due to be paid to companies importing the chemical medications. Our news team inquired about this from the Health Ministry. In response to this a senior Ministry spokesman said that instruction had been given to the Medical Supplies Division to provide the relevant chemical medications to the Kalubowila Teaching Hospital immediately. The spokesman said further that this situation had arisen as a result of the Kalubowila Teaching Hospital Administrative Authorities not informing the Medical Supplies Division about the shortage of chemical medications."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "'Fast unto death' by parents of medical students continues",
+                "_score": 8.545893,
+                "_source": {
+                    "content": "The 'fast unto death' campaign launched by the parents of medical students of state medical faculties is continuing for a 3rd day today (08).\r\n \r\nThe fast is held in front of the Dental Hospital, Colombo.They say that they cannot accept the solutions provided by the government to solve the SAITM crisis.\r\n \r\n5 parents are engaging in the 'fast unto death'."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "Government acquisition of Neville Fernando Hospital takes place with the signing of the agreement",
+                "_score": 8.464571,
+                "_source": {
+                    "content": "The signing of the agreement with regard to the  hand over of  Neville Fernando hospital to the government was held this morning, during a ceremony with the patronage of President Maithripala Sirisena.\r\nChairman of Malabe Private Medical School Dr. Neville Fernando and General Manager of Bank of Ceylon D.M. Gunesekera signed the agreement.\r\nAddressing the gathering, minister of Highways and Higher Education Lakshman Kiriella said that the hospital was not taken over by the government but it was donated by Dr. Neville Fernando.\r\nAddressing the gathering , Health Minister Rajitha Senarathna said that Neville Fernando hospital will function in the capacity of a teaching hospital in the near future.\r\nThe medical facility has an estimated value of the 3.5 billion rupees and it is equipped with all necessary equipment to upgrade to the level of a teaching hospital.\r\nThis hospital will be maintained as an independent body by a special board similar to that of Sri Jayewardenepura hospital.\r\n44 specialists and 70 general physicians are currently serving at the Neville Fernando hospital."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "Several trade unions on strike on May 5th",
+                "_score": 8.459139,
+                "_source": {
+                    "content": "The GMOA stated that the joint strike organized by several trade unions against the Malabe Private Medical School will be held on May 5th. Addressing a media conference held in Colombo today, GMOA Secretary Dr. Navinda Soyza said trade unions of doctors, nurses, teachers and transport workers will join the strike. Meanwhile, Secretary of the Lanka Teachers Association, Mahinda Jayasinghe said at a media conference held in Colombo today the members of his trade union will also support the strike to be held on May 5th. Meanwhile, GMOA, IUSF and Medical faculty student activists staged a protest in front of Homagama Base hospital today. The protest was held against providing clinical training for students of Malabe Private Medical School in Homagama Base hospital."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "Medical Units concerned over the treatment given to late Venerable Maduluwawe Sobhitha Thera",
+                "_score": 8.459055,
+                "_source": {
+                    "content": "Professor Carlo Fonseka stated that there are some concerns with regard to the medical treatment given to Late Venerable Maduluwaawe Sobhitha Thera after falling ill.The Professor stated that the Late Thera had obtained treatment from 6 hospitals within a short time period.Late Venerable Maduluwaawe Sobhitha Thera had undergone a heart surgery on the 10th of September at a private hospital in Colombo.The Thera who returned to the Temple had later been admitted to the Nevil Fernando Hospital in order to get rest.However, Media Spokesperson of the Government Medical Officers Association Dr. Naveen De Soyza stated that admitting the Thera to a Private Hospital in Malabe was questionable.However, Director of the Nevil Fernando Hospital Dr. Sameera Senarathna stated that due to the large crowds which arrived it was unable to allow the Thera to rest."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "Special Medical Team for Kandy Hospital today",
+                "_score": 8.431097,
+                "_source": {
+                    "content": "Health Services Director General Jayasundara Bandara stated that he along with a Team of Medical Professionals will visit the Kandy General Hospital with regard to the deaths of few Kidney patients said to be caused by H1N1 Virus.He stated that further action will be determined after visiting the hospital."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "Welikada Acting CMO removed",
+                "_score": 8.340042,
+                "_source": {
+                    "content": "The Acting Chief Medical Officer of Welikada Prison Hospital, Dr. Nirmali Thenuwara has been removed from her post.\r\nThe Health Minister, Dr. Rajitha Senaratne has issued a directive to tranfer her to the National Hospital, Colombo.\r\nThe Minister has noted that the decision was taken following a request by 19 other doctors who serve at the Welikada Prison Hospital.\r\nDr. J. K. Malwattege will be appointed to fill the vacancy at the Welikada Prison Hospital."
+                }
+            },
+
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "Paramedics dispute is over; Ragama still on strike.-Video",
+                "_score": 8.2989855,
+                "_source": {
+                    "content": "The members of Supplementary Medical Services Trade Union Joint Federation have called off the already suspended strike after discussions with the Health Minister this morning.However the strike is still on at Ragama Teaching hospital.Health Director General issued an internal circular last week authorising hospital directors to open drug stores and issue necessary drugs to patients.Pharmacists Association General Secretary Ajith P Tilakarathna said paramedics of Ragama Teaching hospital will continue the strike until the drugs removed by its director is returned to stores.Addressing a media briefing organized by Supplementary Medical Services Trade Union Joint Federation in Colombo this afternoon, Tilakarathna had this to say."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "Hospital activities disrupted due to GMOA strike",
+                "_score": 8.284252,
+                "_source": {
+                    "content": "Daily activities of government hospitals around the country have been disrupted due to the token strike launched by GMOA and Medical Services United Front this morning.\r\nGMOA started the strike from 8am today stating the state service and free health service are influenced by Budget proposals. \r\nThe strike will continue until 8.00 am tomorrow.\r\nGMOA media spokesman Dr. Samantha Ananda stated that the strike will not be held at Lady Ridgeway Children’s hospital, De Soyza women’s hospital, Maharagama Cancer hospital and Kidney Treatment units.\r\nOur correspondents stated that many patients who sought treatment at government hospitals throughout the country were inconvenienced due to the strike. \r\nThey stated that emergency activities were carried out however.\r\nMeanwhile, eight supplementary medical workers including Public Health Inspectors have joined the strike.  "
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "Patients are affected today as well due to Paramedics strike.",
+                "_score": 8.284046,
+                "_source": {
+                    "content": "The hospital strike launched by the Supplementary Medical Services Trade Union Joint Federation has completed 76 hours.The para medics launched the strike last Tuesday on 6 demands including a salary increase and the strike affected hospital functions such as X-Rays, Scans and laboratory tests.The Most affected was issuing drugs to indoor patients.The issuing of drugs to indoor patients has reached crisis levels after the strikers withdrew from emergency services with effect from 12 noon last Wednesday.Meanwhile Health Director General Dr. Palitha Mahipala has sent fax messages to all hospital directors asking them to appoint a staff committee, open stores and issue necessary drugs.Colombo National Hospital Director Dr. Anil Jasinghe also said hospital functions have been affected due to the strike.Speaking to our news team Health Director General Dr. Palitha Mahipala requested the strikers to report for duty as soon as possible.Meanwhile Supplementary Medical Services Trade Union Joint Federation’s General Secretary Saman Jayasekera said the strike will be extended to the other hospitals which were excluded at the launch of the strike.They include The Castle Street hospital for women, the Maharagama Cancer Hospital and the Lady Ridgeway hospital for children. "
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "3,000 newborns with heart ailments every year",
+                "_score": 8.207645,
+                "_source": {
+                    "content": "The Cardiologist at the Lady Ridgeway Children’s Hospital, Dr. Duminda Samarasinghe says that nearly 3,000 babies are born every year with congenital heart defects.\r\nThe doctor said that prompt treatment is necessary to address such medical conditions."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "GMOA national hospital branch dissolved",
+                "_score": 8.201879,
+                "_source": {
+                    "content": "The Government Medical Officers' Association has decided to dissolve its Colombo National Hospital branch.\r\n\r\nSpeaking to our news team the media spokesperson of the GMOA Dr. Naveen De Soyza stated that the decision was taken after the Colombo National Hospital branch of the GMOA had initiated a strike without the permission of the main branch."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "Rs. 5 billion scam in Cancer Hospital",
+                "_score": 8.201879,
+                "_source": {
+                    "content": "Deputy Director of Maharagama Cancer Hospital states that a scam of 5 billion rupees occurred during the purchase of medical equipments to the hospital.Speaking regarding the damage caused to the lightning conductor installed on top of the main building in the hospital, he said although those responsible were found, no sufficient action was taken."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "Wimal on fast at the National Hospital as well",
+                "_score": 8.143741,
+                "_source": {
+                    "content": "The NFF says that MP Wimal Weerawansa transferred from the Prison hospital to the Colombo National Hospital is continuing his fast.     \r\nNFF MP Padma Udayashaantha said that MP Wimal Weerawansa is still consuming only water.\r\nIn response to a query our news team made a Colombo National Hospital spokeswoman said that the MP did not take any food.\r\nAdmitted to the Colombo National Hospital last afternoon, the MP was subjected to several medical tests. .\r\nMeanwhile a large number of joint opposition MPs visited the Colombo National Hospital yesterday to inquire about his wellbeing."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "GMOA to the Bribery Commission against Nevil Fernando Hospital",
+                "_score": 8.074592,
+                "_source": {
+                    "content": "The Government Medical Officers Association says that they hope to complain to the Bribery Commission with regard to the agreement signed to take over the Neville Fernando Hospital to the Government.Media Spokesperson of the GMOA Doctor Samantha Ananda expressed these views."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "Dr. Neville Fernando to sue Prof. Carlo Fonseka",
+                "_score": 8.034003,
+                "_source": {
+                    "content": "The Chairman of the Neville Fernando Hospital in Malabe Dr. Neville Fernando said that he would sue chairman of the Sri Lanka Medical Council Professor Carlo Fonseka demanding 500 million rupees compensation.\r\nDr. Neville Fernando has demanded for compensation against a statement made by Professor Fonseka to the media with regard to late Maduluwawe Sobhitha Thera.\r\nHe went on to say that the Thera was admitted to his hospital at his request after heart surgery performed at a private hospital in Colombo."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "Viral flu spreads from South to Sabaragamuwa",
+                "_score": 8.021728,
+                "_source": {
+                    "content": "The Medical Superintendent of Embilipitiya Hospital N.S. Dharmathilaka says that 30 patients believed to have been suffering from influenza are receiving treatment in the hospital.\r\nEarlier, the Health Ministry stated that 2500 infected patients have been found in the Southern province.\r\nMeanwhile, Sabaragamuwa Provincial Health Services Director Dr. Kapila Kannangara said that the flu is spreading from the South to the Sabaragamuwa province."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "Lack of doctors disrupts OPD service at Anamaduwa hospital",
+                "_score": 7.951158,
+                "_source": {
+                    "content": "Many patients who arrived at the OPD of the Anamaduwa district hospital were inconvenienced due to lack of doctors.\r\n \r\nAlthough there are 5 doctors serving at the hospital only one doctor reported for duty today.\r\n \r\nAlthough 2 doctors had informed the authorities, the office of the district medical officers failed to deploy 2 additional doctors.\r\n \r\nHowever when we inquired regarding this situation from the North Western health services director R M S Rathnayaka, he said that 2 doctors from the puthlam hospital were sent to the Anamaduwa Hospital.\r\n "
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "Lives of Dehiattakandiya kidney patients at risk",
+                "_score": 7.939351,
+                "_source": {
+                    "content": "It has been reported that the lives of nearly 10,000 kidney patients are at risk due to the absence of a specialist physician in the Dehiattakandiya Base Hospital.\r\nThe Government Medical Officers' Association, Amparai district convener Dr. Chanith Peduruarachchi said that even-though kidney disease is common in the area, the unavailability of a physician has affected patients to a great extent.\r\nHiru News contacted Medical Superintendent Dr. Mahesh Dahanayake of the Dehiattakandiya Base Hospital regarding the issue.\r\nHe added that patients have been greatly inconvenienced due to the absence of a physician.\r\nHe revealed that the Ministry of Health had informed them that a specialist doctor would be provided as soon as possible."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "Health services in hospitals interrupted by the strike",
+                "_score": 7.9087505,
+                "_source": {
+                    "content": "The strike launched by the medical officers protesting for the SAITM has interrupted the activities of hospitals island wide.\r\nAccording to our correspondent, hospital work has been majorly interrupted by the strike launched by several trade unions with the GMOA in the lead."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "Secretary of the lottery dealers’ association attacked",
+                "_score": 7.886732,
+                "_source": {
+                    "content": "Secretary of the Lottery Dealers’ Association, B.S.S. Madarasinghe has been admitted to the Colombo General Hospital after he was assaulted by a group of individuals. Police stated that he was assaulted last evening at Indigahamula Junction in Kadawatha along the Colombo – Kandy road. He was admitted to Ragama hospital first from which, he was transferred to Colombo General Hospital for further medical treatment. Spokesman at the Kadawatha Police stated that no suspect has been arrested in connection to the assault yet."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "Protest march against SAITM in Horana",
+                "_score": 7.8217688,
+                "_source": {
+                    "content": "A protest is currently taking place in Horana city against SAITM.\r\nSeveral civil societies are joining the Government Medical Officers Association in protest. The group commenced their protest at Horana Base Hospital and are now marching to the city, Hiru Correspondent said."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "Cabinet paper from Ministers of Health and Higher Education",
+                "_score": 7.8117943,
+                "_source": {
+                    "content": "Minister of Health, Nutrition and Indigenous Medicine Dr Rajitha Senarathna said that a cabinet paper with regard to the Malabe Private Medical College and Neville Fernando Hospital will be submitted on Tuesday. He expressed these views following an event held in Bulathsinhala yesterday."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "Paramedics strike successful: Trade unions Hospital functions are normal.-Video",
+                "_score": 7.79844,
+                "_source": {
+                    "content": "The Para medics attached to hospitals in Uva, Sabaragamuwa and North Western Provinces launched a strike this morning on six demands including the implementation of promotion scheme.Para Medical Service Federation President Dharmakeerthi Epa said X-Ray services, Laboratory services and issuing drugs have come to a standstill due to the strike.Meanwhile Rathnapural Provincial Hospital Director Dr. S.P.A.L. Ranaweera said the hospitals are functioning with the help of alternative methods.Puttalam Base Hospital Administrative Officer Saman Hemachandra told our news team his hospital also functions as usual.At the same time, Kurunegala Teaching Hospital Director Dr. Palitha Yapa said the hospital functions as usual amid the disruptions followed by the strike."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "Minimum standards for Medical Colleges finalized – Medical Council",
+                "_score": 7.7935634,
+                "_source": {
+                    "content": "Sri Lanka Medical Council announces that the criteria of minimum standards for the medical colleges in Sri Lanka including the private medical college, SAITM has been finalized.\r\nMinistry of Higher Education released a statement regarding the issue regarding SAITM yesterday where they stated that the Medical Council would prepare the minimum standard for medical colleges.\r\nMinistry of Higher Education further remarked that the relevant standards are being prepared with the patronage of the Attorney General, and they will be gazette by the Health Ministry in due course.\r\nRegistrar of Sri Lanka Medical Council, Terans Gamini De Silva, speaking to the Hiru news team voiced that the medical Council had been trying to impose minimum standards needed for the Medical Colleges since some time.\r\nMeanwhile, Hiru news team asked for the opinion of Inter University Students’ Federation, regarding the taking over of Dr.Neville Fernando Hospital in Malabe by the Health Ministry and regarding the set of proposals put forward by the Government on the clinical training offered to the students in SAITM.\r\nThe Convener of Inter University Students’ Federation, Lahiru Weerasekara responded the set of proposals put forward by the ministry of Higher Education and Highways regarding the SAITM issue is not acceptable."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "GMOA Central Working Committee To Decide Destiny Of SAITM Today",
+                "_score": 7.7745028,
+                "_source": {
+                    "content": "Functions of government hospitals across the island were disrupted due to a token strike launched by the GMOA last morning (04).\r\nHospital directors told our news team that functions of OPD services and clinics came to standstill due to the strike. Thousands of patients were badly inconvenienced due the GMOA’s trade union action.\r\nThe strike was launched against registering graduates of Malabe Private Medical College with the Medical Council, signing the ECTA between India and Sri Lanka and the proposal to amend the Medical Service Ordinance. GMOA said nearly 14 thousand doctors attached to 1500 government hospital joined the strike yesterday. \r\nThe token strike which started at 8 o’clock last morning ended at 12 noon.  The GMOA, The All Ceylon Government Medical Officers association, the Government Dentists Association and The Ayurveda Physicians Association participated in the strike.  In addition, The All Ceylon Family Health Service offices association, the all Ceylon Nurses Association, The Health services association, the Ward Clerk Association and the All Ceylon Telephone Operators joined in the strike.\r\nAt the same time, the Inter University Students Federation (IUSF) had organized protests against the Malabe private medical college, from the universities at Rajarata, Ruhuna, Sri Jayewardenepura, Wayamba and Peradeniya.\r\nIn addition, the fundamental case filed by three students will be taken for hearing today.  17 officials including the Health Minister have been named as respondents in this petition.\r\nMeanwhile GMOA said in a media conference yesterday afternoon that its central working committee has convened an emergency meeting today to take a decision about the Malabe Private medical college."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "12 die of Dengue in Kinniya",
+                "_score": 7.7711105,
+                "_source": {
+                    "content": "Twelve people have died in Kinniya area from dengue fever during the past two and half weeks, reports say.\r\nTrincomalee Public Health Medical Officer Arun Mohan said Kinniya also had the most number of dengue patients.\r\nHowever, the patients were transferred to Trincomalee hospital as Kinniya hospital does not have sufficient facilities for dengue patients.\r\nHealth Ministry states that over 20,000 dengue patients were found during this year."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "Update : No physical injuries to the abducted girl in Ganewaththa: certifies judicial medical report-Video",
+                "_score": 7.7694154,
+                "_source": {
+                    "content": "Kurunegala Hospital Authorities state that the abducted child Thamara Heshali Wijekoon who was found yesterday after her disappearance at Ambakola-wewa, Ganewatta in Kurunegala has not received any physical or sexual harassment whatsoever. The Deputy Director of the Hospital Doctor Chandana Kedan-gamuwa stated that this was confirmed after the girl was produced before the judicial Medical Officer.He further said that she can be discharged from the hospital by this noon.Related story published below :http://www.hirunews.lk/91939/update-6-police-teams-in-search-main-suspect-ganewaththa-child-abduction-case-video"
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "Hazardous conditions around the Kurunegala hospital",
+                "_score": 7.739996,
+                "_source": {
+                    "content": "It has been reported that the dengue epidemic has rapidly increased within the past few months in the Kurunegala district.  Government Medical Officers Association Kurunegala hospital branch secretary, Dr. Indika Rathnayaka stated that the necessary measures are being taken to declare the Kurunegala district as high risk zone."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "GMOA urges Govt. to take speedy measures to contain viral flu",
+                "_score": 7.651822,
+                "_source": {
+                    "content": "The Government Medical Officers' Association says that health authorities should take speedy measures to prevent the viral flu spreading across the Southern Province, from becoming a severe epidemic.\r\n \r\nThe Karapitiya Hospital branch of the GMOA noted that 8 individuals including children have died in Karapitiya Teaching Hospital alone, of the disease.\r\n \r\nHowever, Director of Health Services of the Southern Province, Dr. J. Wijesooriya stated that the situation would be contained within two weeks."
+                }
+            },
+           {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "Government’s decision on SAITM expected today, Government doctors’executive council also meets",
+                "_score": 7.633415,
+                "_source": {
+                    "content": "Minister of Higher Education and Highways Lakshman Kiriella says that several decisions, including the decision to take over Neville Fernando Private hospital in Malabe, which triggered controversy, will be announced today.He noted that the administrative authority had agreed to transfer the hospital to the government without obtaining any compensation.The minister further noted that a request has been made from the Malabe private medical university, that the enrollment of new students into the university be halted, until policies and decisions taken by the government are implemented.Our news team inquired about the views of the Government Medical Officers Association regarding the decision the government intends to take on the matter.The media spokesperson of the Association, Dr. Samantha Ananda noted that a discussion will take place today, during the executive committee meeting.An island wide token strike was launched by the GMOA against the malabe private medical university on the 5th of May.The strike had the support of 121 trade unions including teachers, transport railway and crude oil trade unions.The GMOA had given notice that another strike would be launched at the end of this month."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "Hospital strikers withdraw from emergency services; a patient dies-Video",
+                "_score": 7.611378,
+                "_source": {
+                    "content": "A patient who sought treatment at Kandy general hospital collapsed and died while the Para medics’ strike was on this morning.Meanwhile General Secretary of the Supplementary Medical Services Trade Union Joint Federation Saman Jayasekera told our news team his union has decided to withdraw from emergency services in Colombo national hospital from this afternoon.He said that the union has decided to join the service if only the authorities call for duty.The union withdrew from emergency services from all teaching hospitals with effect from 12 this noon as their demands were not met accordingly.Meanwhile a meeting between the Supplementary Medical Services Trade Union Joint Federation and Acting Health Ministry is currently underway at the latter’s office.Federation’s General Secretary Saman Jayasekera further said that the strike will continue if a solution is not found during the ongoing meeting."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "Cocaine worth Rs. 35mn retrieved from Brazilians",
+                "_score": 7.5678587,
+                "_source": {
+                    "content": "The medical staff at Negombo Hospital has retrieved 153 cocaine capsules from the two Brazilians who were arrested at the Bandaranaike International Airport.\r\n \r\nThe estimated value of cocaine capsules weighing 1.4 kg, was Rs. 35 million.\r\n \r\nThe two Brazilians were arrested by a combined effort by Police Narcotics Bureau and Sri Lanka Customs based on intelligence gathering.\r\n \r\nThe suspects aged 30 and 24 were apprehended on 30th of June and yesterday.\r\n \r\nNow they are warded at Negombo Hospital under police protection."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "No confidence motion at GMOA",
+                "_score": 7.514722,
+                "_source": {
+                    "content": "The Government Medical Officers Association states that those responsible for the administration of the Colombo National Hospital appear under numerous aliases.\r\n\r\nSecretary of the GMOA Chandika Epitakaduwa expressed these views during a media briefing held in Colombo today.\r\n\r\nWhen inquired by the Deputy Director of the GMOA's National Hospital Branch Dr. Thusitha Narendra Abeygunasekara Senarathan in this regard he noted that the executive committee of the GMOA was planning on introducing a no confidence motion in this regard."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "Western Province doctors strike against SAITM today",
+                "_score": 7.5067,
+                "_source": {
+                    "content": "Government Medical Officers Association says that the doctors’ strike launched against the Malabe SAITM private university in the provincial level is to take place in all Western province hospital today.\r\nThe Assistant Secretary of the Association Dr. Haritha Aluthge noted that the token strike will begin at 8 this morning until 12 noon today."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "GMOA exposes reasons for lack of supplies for government hospitals",
+                "_score": 7.4839983,
+                "_source": {
+                    "content": "Government Medical Officers' Association says supply of required items to government hospitals has been affected.\r\nThey said it has occurred as a result of providing 500 million rupees from the Health Ministry's budgetary allocation to Malambe Neville Fernando Hospital.\r\nThe GMOA highlighted this during a media briefing in Colombo today (24)."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "GMOA convenes it's AGM",
+                "_score": 7.414315,
+                "_source": {
+                    "content": "A special meeting of the Government Medical Officers Association is due to get underway tomorrow morning in order to discuss the future course of association subsequent to dissolving its branch at the Colombo National Hospital.\r\n\r\nSecretary of the GMOA Chandika Epitakaduwa speaking to our news team expressed the following views in this regard."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "Shortage of syringes at hospitals will be addressed by next week; assurance from Health Officials",
+                "_score": 7.3562984,
+                "_source": {
+                    "content": "The medical supplies Division says that the current shortage of syringes in hospitals island-wide will be ended within the next few days. When inquired by our news team, Deputy Director of the Division Doctor A.T. Sudarshana noted that consent has been given to hospital administrative authorities to purchase the relevant supplies from their respective regions."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "A message for patients!",
+                "_score": 7.3562984,
+                "_source": {
+                    "content": "The Government Medical Officers' Association says they will launch an island-wide token strike tomorrow (Jan. 30).Addressing the media, the GMOA said the token strike will be launched from 8 am tomorrow. It added that emergency services and functions of Cancer Hospital, maternity hospitals and children's hospitals will not be affected.Related story:Doctors give a 24-hour ultimatum"
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "Ministers and faculty deans present proposals on SAITM; Student Admissions suspended for 6 months",
+                "_score": 7.3375306,
+                "_source": {
+                    "content": "The Deans from eight state medical faculties had discussions with the Minister of Higher Education Lakshman Kiriella, Deputy Minister Mohan Lal Grero and officials at the University Grants Commission regarding SAITM.  They agreed to submit several proposals to the administration of the private medical college in Malabe.\r\nDuring the next six months, the ministry of Higher Education and Highways, University Grants Commission, the SLMC and other stake holders will jointly develop an operational procedure applicable to non-state medical education.\r\nFollowing yesterday’s discussion, the two parties also agreed to propose to the administration of SAITM to suspend further admission of medical students for a period of six months until the periodic review of the medical degree programme is conducted by the ministry of Higher Education.\r\nThey had also proposed that students from SAITM who have passed the final MBBS examination must undergo a further clinical training.\r\nThis would require one month training dedicated to the areas of surgery, medicine, obstetrics and gynecology and paediatrics, at a state hospital.\r\nAt the conclusion of this period, the students must pass a licensing examination conducted by the SLMC."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "Government notice on SAITM released, GMOA requests to inform the stance to Supreme Court",
+                "_score": 7.3375306,
+                "_source": {
+                    "content": "The government stance over Malabe Private Medical School has been announced.\r\nPresidential Secretariat, ministry of Higher Education and the Health Ministry have jointly announced the stance.\r\nThe notice issued by the government has further described the policy measures that have been taken to ensure standards of medical education and the freedom of education.\r\nA decision has been taken to provide clinical training to students who passed the final examination at  Malabe Private Medical School in Homagama and Avissawella government hospitals.\r\nIt was also stated that it is mandatory for these students to sit an examination conducted jointly by the Sri Lanka Medical Council and University Grants commission.\r\nMeanwhile, recruitment to Malabe Private Medical College should be suspended until the Government policy decisions are implemented.\r\nIn addition, the government has decided to take over Malabe Neville Fernando Private Hospital and provide healthcare services to the public.\r\nMeanwhile, the GMOA is having an emergency executive committee meeting to discuss several important issues including the government’s stance.\r\nGMOA Assistant Secretary Dr. Haritha Aluthge told our news team that his organization has not received any notice from the government citing its stance will be submitted to the Supreme Court."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "Health Ministry and police investigation about the death of the Waliweriya student after revelation by GOLD news.",
+                "_score": 7.3176174,
+                "_source": {
+                    "content": "Deputy Health Minister Lalith Dissanayake says that the Health  Ministry has launched a special probe with regard to the sudden death of  the female student after admission to the Gampaha District hospital.\r\nWe disclosed information about this through our main news bulletin last afternoon.\r\nThe Deputy Minister who called our news team after listening to the news bulletin stated as follows:\r\n\n\t\t\t   \n\t\t\t   \t\t\n\t\n\t\t\t   \r\n18 year old Udari Ireshika who received education at the Kelaniya  Gurukula Vidyalaya was admitted to the Gampaha District Hospital on  Monday following complaints of a severe headache.\r\nUnfortunately the 18 year old passed away on the very night of the same day.\r\nParents of the 18 year old have directed their accusations at the  medical staff of the hospital stating that she wasn’t given adequate  attention.\r\nAccording to the mother of the victim, Udari had not been diagnosed until two hours following her admission.\r\nThe Mother of Udari Ireshika speaking to our news team expressed the following views.\r\n\n\t\t\t   \n\t\t\t   \t\t\n\t\n\t\t\t   \r\nWhen inquired from the Medical Superintendent of the Gampaha Hospital  Sudath Dharmarathna it was noted that all possible efforts to salvage  the life of the patient had been made.\r\nHowever Deputy Health Minister Lalith Dissanayake said further the Health Ministry would hold a special investigation on this."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "Fever in South : Over 50 children being treated in Kamburupitiya",
+                "_score": 7.2910366,
+                "_source": {
+                    "content": "The health authorities are taking measures to containing the influenza virus which is spreading in the Southern Province.\r\n \r\nSo far around 13 deaths are reported and 11 of them were children.\r\n \r\nNow new cases are reported from Matara, the health authorities said.\r\n \r\nIt was reported that 0ver 50 children are being treated in-house at the Kamburupitiya Base Hospital.\r\n \r\nEarlier, 5 children died at the Karapitiya Teaching Hospital and 3 of them were affected by influenza and other 2 had infected with Adino virus and pneumococcal bacteria.\r\n \r\nSo far blood samples of 84 persons have been sent to Medical Research Institute in Borella for testing and 27 of those have been infected with influenza along with Adino virus and pneumococcal bacteria.\r\n \r\nThe health authorities say pregnant mothers and small children are more prone to this disease.\r\n \r\nThey urge the public to seek medical advice if fever persists more than one day."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "Signs of Peradeniya Nurses and Midwifes issue prolonging.",
+                "_score": 7.2876954,
+                "_source": {
+                    "content": "The government medical officers association states that if a solution is not provided by tonight the nurses of the Peradeniya teaching hospital will carry out their strike tomorrow as well.The nurses of Peradeniya Teaching Hospital staged a trade union action this morning.They protested against the Midwives who refrained from working under the supervision of the nurses.Government Nursing officers’ Association stated that the nurses of the Peradeniya Teaching Hospital carried out their trade union action from 7am today.However, the Government Midwives of the Central Province hospitals are engaged in a trade union action since the 18th claiming that they are being pressured by the nurses during work."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "Doctors at Karapitiya Hospital launches token strike",
+                "_score": 7.2876954,
+                "_source": {
+                    "content": "The doctors at Karapitiya Teaching Hospital have launched a 24-hour token strike.\r\n \r\nThey commenced their strike at 7 am today (Apr. 27).\r\n \r\nThe reason was a decision by the authorities to allow British doctor Dr. Richard Permin to perform heart surgeries at the hospital.\r\n \r\nThe GMOA charged that the British surgeon did not have a license to practice in the UK, thus he cannot practice in Sri Lanka.\r\n \r\nHowever, last week, the Director General of the Health Services, removed the temporary ban imposed on him to perform heart surgeries at the Karapitiya Teaching Hospital based on a recommendation by the Sri Lanka Medical Council. "
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "Doctors' strike pesters patients (photos)",
+                "_score": 7.2611,
+                "_source": {
+                    "content": "Hospital functions were severely disrupted today due to the GMOA strike which was launched in protest of Malabe Private Medical School.  Our correspondents stated services at OPD’s and clinics were crippled as a result.  Meanwhile, addressing a media conference held in Colombo today, GMOA Assistant Secretary Dr. Haritha Aluthge said the strike has made the required impact.                   "
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "Doctors Launch Token Strike Over SAITM, ETCA - [Photos]",
+                "_score": 7.247217,
+                "_source": {
+                    "content": "The Government Medical Officers' Association (GMOA) launched a token strike today (04) which will be conducted from 8.00 a.m. to midday.\r\nThe strike which started at 8 o’clock this morning throughout the country has badly affected the functions of government hospitals including the Colombo National Hospital thereby brining OPD services and clinics to standstill.\r\nThe GMOA decided to carry out the strike action to oppose the government on the dispute over SAITM private medical college and the government's plan to sign the ETCA with India.\r\nMeanwhile, several other trade unions have also extended support to the GMOA's strike action.                (Photo Credits - Hatton Ranjith Rajapakse/ Wanni Romesh Madushanka)"
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "An exchange of blows at SAITIM ; student hospitalized",
+                "_score": 7.2355037,
+                "_source": {
+                    "content": "A tense situation arose during the seminar held in Ratnapura yesterday with the participation of a group of professional experts who had expressed support to the Malabe private medical college.\r\nThat was in consequence of the Sabaragamuwa University Student activists who participated in the seminar protesting against the views expressed by lecturers at the seminar.\r\nThe forum of Malabe Private Medical College students’ parents had organized the seminar held at the Samurdhi Hall situated in the new town of Ratnapura last afternoon.\r\nA group of persons including Venerable Dambara Amila Thera, Puravaesibalaya co-convener Saman Janapriya and New LSSP leader Dr. Wickramabahu Karunaratna participated in the seminar as speakers.\r\nMeanwhile a Sabaragamuwa University student had got admitted to the Ratnapura hospital saying that Malabe Medical College Parents’ Forum chairman Gemunu Wijeratna had assaulted him outside the seminar auditorium."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "No need to inquire into Most Venerable Maduluwawe Sobitha Thero’s passing away- Medical team",
+                "_score": 7.1892157,
+                "_source": {
+                    "content": "The medical committee appointed to probe into the death of Venerable Maduluwawe Sobhitha Thera informed Court today, that there is no necessity to conduct an inquiry or an autopsy in connection with the passing away of the late Thera. The report submitted by the Chairman of the Committee Dr. Anil Jasinghe to Colombo Chief Magistrate Gihan Pilapitiya stated that the reasons for the late Thera’s death, as stated by the Singaporean Clinical Board, are consistent with the ailments suffered by the late Thera. The medical committee therefore has suggested neither a post mortem nor an inquiry is necessary with regard to the passing away of the late Sobitha Thera. The Committee has further reported that a misplacement of neither medical data nor negligence had occurred. Earlier, the CID initiated an investigation following a compliant made by Uduwe Dhammaloka Thera on the death of Venerable Maduluwawe Sobhitha Thera. Subsequently, the Court appointed a 7 member medical committee presided by the Director of Colombo National Hospital Dr. Anil Jasinghe to probe the allegations."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "Hospital services disrupted due to health service sector strike.",
+                "_score": 7.155344,
+                "_source": {
+                    "content": "Government Nursing Officers’ Association stated that the one-day token strike staged by the paramedical and nursing professionals this morning, demanding an allowance increment, was a success.The Chairman of the Association Saman Ratnapriya told our news team that the strike affected, medical services of several hospitals.Our correspondents said that services were hindered due to the token strike at the main hospitals in the island including issuing of drugs, lab services, X-ray, Scan and E.C.G. tests.Due to the strike, the Director of Colombo National Hospital Doctor Anil Jasinghe said that the strike has interrupted the services of dispensing of drugs and medical tests.However, he stated that surgeries and other services continue as usual."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "8 arrested during SAITM protest remanded",
+                "_score": 7.146984,
+                "_source": {
+                    "content": "The eight students, including a monk arrested during the anti SAITM protest yesterday have been remanded until tomorrow.\r\nThe suspects were produced before Colombo chief magistrate Lal Ranasinghe Bandara this morning.\r\nThe suspects were arrested by police for engaging in protests in violation of a Court ruling.Meanwhile, Police Media Spokesman’s office stated that 5 police officers who were injured in the clash are receiving treatment at Narahenpita police hospital.\r\n4 university students  who were also  injured during the clash are receiving treatment at Colombo National hospital.\r\nThe march in protest of 15 issues including cancellation of Malabe Private Medical School was launched by IUSF, university monks’ federation and the medical faculty student’s activists committee.\r\nThe protest began from Fort Railway station yesterday afternoon.\r\nIn an attempt to contain the commotion, Police fired tear gas at protestors as they attempted to reach the University Grants Commission.\r\nLater protestors assembled at Viharamahadevi Park.\r\nThe protest dispersed at around 8pm."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "Does an infection kill a patient at the castle maternity hospital; a committee to probe the death",
+                "_score": 7.124483,
+                "_source": {
+                    "content": "A special committee to probe the closure of the ICU at the Castle Street Maternity Hospital has been appointed by the Director General of Health Services yesterday.\r\n \r\nDirector of the Castle Maternity Hospital Dr.W.K.Wickramasinghe said the committee is comprised of specialists from the Colombo Medical Research Institute and the Colombo National Hospital.\r\n \r\nThe ICU was temporarily closed yesterday after an inmate patient died of high fever and another fell critically ill.\r\n \r\nDoctors suspected a germ infection in the ICU caused the death, and steps were taken immediately to close the Unit.\r\n \r\nDr.Wickramasinghe said a viral fever is currently fast spreading in the island, and the fever could severely affect some pregnant mothers. \r\n \r\n "
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "Signs of Work to Rule in Matara General Hospital spreading Island wide",
+                "_score": 7.109738,
+                "_source": {
+                    "content": "The Government Medical Officers Association states that it is considering extending the work to rule trade union action taking place in the Matara General Hospital to the rest of the hospitals in the Island.\r\n\r\nDue to the work to rule trade union action initiated in the Matara hospital, the number of patients seen and the number of operations conducted have been limited at the Matara General Hospital.\r\n\r\nThe GMOA described this trade union action as the first step in a program aimed at increasing the quality of medical services.\r\n\r\nThe assistant media spokesperson of the GMOA Dr. Nalinda Herath had the following to say in this regard.\r\n\r\n\n\t\t\t   \n\t\t\t   \t\t\n\t\n\t\t\t   \r\n\r\nHowever, deputy health minister Lalith Dissanayaka stated that a report regarding the amputation of the arm of the law student was issued to fulfil the responsibility as medical officials to reply to it.\r\n\r\nHe further stated that one should not use such incidents as a reason and act in a manner that defiles the honour of one's profession.\r\n\r\n\n\t\t\t   \n\t\t\t   \t\t\n\t\n\t\t\t   \r\n\r\nFollowing the incident concerning the law student Achala Priyadharshani there were discussions regarding professional negligence in society.\r\n\r\nReports stated that the Law Faculty Students Union are preparing to conduct a survey regarding professional negligence of doctors and lawyers and inform the officials regarding that.\r\n\r\nThe convenor of the LFSU Jayantha Dehi-aththage made the following statement regarding this.\r\n\r\n\n\t\t\t   \n\t\t\t   \t\t\n\t\n\t\t\t   \r\n\r\nThe National Intellectuals and Professionals Organization stated that creating new methodologies following surveys of professional activities is a good deed.\r\n\r\nThe chairman of the NIPO Dr. Chandana Abeyratne had the following to say in this regard."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "No doctors at hospital, father & son die in accident",
+                "_score": 7.107774,
+                "_source": {
+                    "content": "The health authorities have commenced an investigation as it was found that no doctors were on duty at the Thammannawa Hospital to treat when two accident victims were brought for medical treatment.\r\nThe incident had occurred yesterday.\r\nAt around 4.15 pm, a motorbike travelling on the Anuradhapura - Trincomalee road had veered off the road at hit a lamp post at the Ambagahawela Junction.\r\nThree of the same family, father, mother, and son were critically injured in the mishap.\r\nHowever, when the injured were taken to the Thammannawa Hospital, the villagers accused that there were no doctors on duty to accept the injured.\r\nThen they were taken to Mihintale Hospital and while they were being taken, the son and his father had passed away."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "Trade union action by GNOA to extend : video",
+                "_score": 7.055578,
+                "_source": {
+                    "content": "The Government Nursing officers association stated that trade union action staged today in the North Western province and Colombo Maternity Hospital in Castle Street will be extended to Colombo National Hospital, Balapitiya, Hambantota and Diyatalawa hospitals as well. The nurses trade unions commenced a protest yesterday regarding the issue of midwives and doctors hindering their training for midwifery.Meanwhile, during a media briefing convened in Colombo today the Government Medical Officers Association expressed their views regarding the difficulties faced at Kalutara hospital due to the trade union action.During another media briefing held in Colombo today regarding the issues cropped up due to midwifery training, the Health Minister Maithripala Sirisena stated that he intends to discuss with all relevant parties on the 2nd of May and resolve the matter."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "Chilaw pilgrims died of a deadly virus- Director of the Chilaw Base Hospital",
+                "_score": 7.0089617,
+                "_source": {
+                    "content": "Reason behind the death of two pilgrims who returned from Dambadiva is an unidentified influenza virus, Director of the Chilaw Base Hospital Dr. Dinusha Fernando said.\r\nShe said the virus is not related to the influenza H1N1 virus.\r\nShe added that it is important for other persons who went of the pilgrimage to get medical assistance.\r\nThe two 66-year-old women from Nalladarankattuwa who returned from a pilgrimage to India, were admitted to Chilaw hospital complaining of experiencing problems with breathing.\r\nOne of the women died on September 12th and the other woman died on the 14th."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "Kandy hospital stops OPD service, clinics and scheduled operations",
+                "_score": 6.995187,
+                "_source": {
+                    "content": " \r\nHospital source state that due to the OPD treatments, clinics and planned surgeries being stopped in the Kandy National Hospital, the patients have been put in great difficulty.\r\n \r\nThe Directress of the Hospital Dr. Lakmini Perera stated that the emergency services are continuing without interruption.\r\n \r\nThe doctors of the Kandy National Hospital had stopped OPD treatments, clinics and surgeries due to an ownership issue of a rest room which has been ongoing for over a month.\r\n \r\nThe media spokesperson of the Government Medical Officers Association Dr. Naveen De Soyza had the following to say in this regard.\r\n \r\n\n\t\t\t   \n\t\t\t   \t\t\n\t\n\t\t\t   \r\n \r\nThe Government Nursing Officers Association stated that the trade union action is unfair.\r\n \r\nAssociation President Saman Ratnapriya said that the authorities should intervene to settle the dispute between the doctors and nurses of Kandy hospital.\r\n \r\n\n\t\t\t   \n\t\t\t   \t\t\n\t\n\t\t\t   \r\n \r\nMeanwhile Health Ministry sources stated that the Ministry Secretary is scheduled to have discussions with the GMOA and GNOA representatives to settle the dispute."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "7th stage of Gold FM Cares Health Camp together with HIRU FM and HIRU TV today; Relief consignments tomorrow as well",
+                "_score": 6.9903016,
+                "_source": {
+                    "content": "Day 7 of Gold FM Cares medical camps initiative launched together with HIRU TV and HIRU FM was held at Sri Abhina-waaramaya in Kalutara today. Several beneficiaries received treatment at the medical camps. At the same time, Gold FM Cares relief operation together with HIRU TV and HIRU FM will distribute more relief goods in the Ratnapura and the Kalutara districts tomorrow. Prince Udaya Priyantha passes away A popular Sinhala vocalist Prince Udaya Priyantha passed away at a private hospital this morning. He was 47 years old at the time of his premature death. Vocalist Late Prince Udaya Priyantha who was born in Elpitiya entered the arena of local music through National Youth Council."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "\"Health Minister and Secretary should be arrested\" - SAITM parents",
+                "_score": 6.9742155,
+                "_source": {
+                    "content": "The Parents' Association of Malabe Private Medical College said today (Mar. 15) that the Health Minister and his Ministry Secretary should be arrested.\r\nAddressing a media conference held in Colombo, the convener of the Association, Gemunu Wijerathna said that the takeover of the Neville Fernando hospital by the government is not genuine.\r\nMeanwhile, Dr. Neville Fernando noted yesterday that he decided to sell the Malabe Neville Fernando hospital to settle the loans he obtained for its construction.\r\nA newspaper advertisement was published recently seeking a buyer for the hospital.\r\nEarlier, the Government announced that it took over the Neville Fernando hospital.\r\nThe respective agreement was signed between the then Health Ministry Secretary Janaka Sugathadasa and Dr. Neville Fernando on 17th of July last year.\r\nPresident Maithripala Sirisena and Health Minister, Rajitha Senarathna also participated in the ceremony.\r\nThe General Manager of the state bank which granted the loan to construct the hospital was also a signatory to the particular agreement."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "Health Strike Disrupts Hospital Functions",
+                "_score": 6.9618797,
+                "_source": {
+                    "content": "Certain government hospitals services around the island were disrupted today due to a four-hour token strike against Malabe private medical college. The strike was launched by a group of doctors, nurses and health workers.\r\nHospital directors told our news team that OPD services and clinics came to standstill due to the strike.\r\nThe token strike which started at 8 o’clock this morning ended at 12 noon.\r\nThe GMOA, All Ceylon Government Medical Officers association, government dentists Association and Ayurveda Physicians Association participated in the strike.\r\nIn addition, the All Ceylon Family Health Service offices association, the all Ceylon nurses association, Health services association, ward clerk association and all Ceylon telephone operators joined the strike as well.\r\nMeanwhile GMOA’s media spokesman Dr. Samantha Ananda reported that the strike was successful.\r\nAt the same time, the Inter University Students Federation has organized protests against Malabe private medical college in front of Rajarata, Ruhuna, Sri Jayewardenepura, Wayamba and Peradeniya universities."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "Issuing of drugs to hospitals stopped: lab tests given to private sector-Video",
+                "_score": 6.9494667,
+                "_source": {
+                    "content": "The five trade unions of the Para Medical Joint Union Federation have decided to continue their strike which was launched at 8 this morning.The discussions between the trade unionists and Health Ministry Secretary Sudarma Karunarathna failed and Para Medical workers decided to continue the strike which aimed at 6 demands including a salary increase.The functions of 18 teaching hospitals, 54 provincial general hospitals, and nearly 300 district hospitals were disrupted due to the strike today.Over 5000 Para medical workers have joined the strike and the issuing of drugs to hospital wards and OPDs were crippled today. Numerous tests of blood samples, X-Ray, Scan and MRI were also crippled due to the Para medics’ strike.Meanwhile directors of several hospitals said that Pharmaceutical corporation “Osu Sala” outlets have started issuing drugs to prescriptions issued by government doctors.They also said steps have been taken to get urgent tests done by private laboratories.Hospital directors said the situation could be worsen if the strike will continue tomorrow and further."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "Dispute between Kandy hospital doctors and nurses deepens - A male nurse protests on a tree",
+                "_score": 6.9407387,
+                "_source": {
+                    "content": "A nurse engaged in a protest atop a tree in the Kandy General Hospital grounds today.\r\nNawarathna Bandara, the nursing officer in question, is currently engaging in the protest demanding that the authorities withdraw the decision taken with regard to the issue between the doctors and the nurses of the hospital regarding a restroom.\r\nAn issue arose between the doctors and the nurses of the Kandy General Hospital approximately a month ago over the ownership of a restroom.\r\nDespite the efforts of the hospital authorities and the ministry of health no solution was found for the issue.\r\nSubsequently the doctors of the hospital stopped seeing OPD patients, conducting clinics and performing scheduled surgeries for several days.\r\nOne of the main demands of the doctors who engaged in trade union actions was that the hospital authorities transfer a female nurse who serves in the hospital surgery room who acted in an undisciplined manner to a different division.\r\nDuring a discussion held with the health officials yesterday the officials had agreed to do and as a result the doctors had agreed to conclude their trade union actions.\r\nHowever, the male nurse who climbed the tree stated that he is engaging in his protest against the decision taken by the authorities to transfer the female nurse to a different division of the hospital.\r\nHowever, the deputy director general of medical services of the Ministry of Health Ananda Gunasekara arrived this afternoon at the location where this nursing officer is engaging in the protest.\r\nAlthough he requested Nawarathna Bandara to conclude his protest Nawarathna Bandara did not agree.\r\nThe following is how the deputy director general of medical services of the Ministry of Health Ananda Gunasekara explained the situation to Nawarathna Bandara\r\n\n\t\t\t   \n\t\t\t   \t\t\n\t\n\t\t\t   \r\nSubsequently our news team engaged in a phone conversation with Nawarathna Bandara who is atop the tree.\r\n\n\t\t\t   \n\t\t\t   \t\t\n\t\n\t\t\t   \r\nMeanwhile, the secretary of the Kandy branch of the Government Nursing Officers Association Prabath Paleepana stated that the GNOA has decided to initiate severe trade union actions against this decision taken yesterday."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "Be careful of persisting persistent cold and fever- Health Officials",
+                "_score": 6.823304,
+                "_source": {
+                    "content": "Seek immediate medical treatment if a patient suffers from persistent cold and fever as, Health Officials urged.\r\nThey stated that there is a risk of influenza virus to spread due to the prevailing weather conditions.\r\nThe warning comes after three patients died of Influenza H1N1in ward 69 of the Kandy Teaching Hospital. The ward was sealed immediately afterwards and reopened following sterilization to treat influenza patients.Five more patients, suspected of being infected by the virus, have been receiving treatment.\r\nKandy Teaching Hospital Director Dr.R.M.S.K. Ratnayake said that necessary steps were taken to control the situation.\r\nHe asked the public to avoid bringing children to see patients at the hospital.\r\nHe said children, pregnant mothers, elderly people and people suffering from diseases such as kidney patients are most vulnerable for the virus.\r\nThe Director added that hospital staff and visitors have been given instructions on how to protect themselves and prevent further spread of the virus."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "CCTV footage checked to trace university students who forcibly entered the ministry of health; 6 Injured STF members admitted to police hospital.",
+                "_score": 6.7991123,
+                "_source": {
+                    "content": "Police Media spokesman DIG Priyantha Jayakody says that police expect to take legal action against those who led student activists to forcibly enter the ministry of Health, stage protests and damage public property.\r\nHe told our news team that CCTV footage will be used for the investigations with regard to the incident.\r\nIUSF convener Lahiru Weerasekera said that the police should be held responsible for the damage to  public property on the premises.\r\nAn attack was launched on the protesters participating in demonstrations  organized by IUSF together with the medical faculty student activists committee inside the ministry of Health on Wednesday afternoon.58 student activists who were injured in the clash are still receiving treatment at Colombo national Hospital.\r\nA police officer and 5 STF personnel who were also injured have been transferred from Colombo National Hospital to the Police hospital."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "12 ordinary level students suffering from dengue; An exam centre at the Infectious Disease Hospital",
+                "_score": 6.798919,
+                "_source": {
+                    "content": "Reports say that approximately 12 students infected with dengue who are sitting the GCE O/L examination this year, are being treated at the IDH fever hospital.\r\nA hospital spokesman told our news team that an examination centre has been set up at the hospital to enable these students to sit their exams.\r\nThe spokesman also said that doctors would be constantly observing the students’ condition.\r\nMeanwhile the Ministry of Health said that while there are 48,000 reported cases of dengue to date, 77 of those have succumbed to the disease.\r\nSimilarly the ministry of Health had recently decided to cancel leave requested by health staff members in 30 Medical Officer’s Divisions in the 10 districts.\r\nColombo, Gampaha, Kalutara, Galle, Jaffna, Ratnapura, Kurunegala, Puttalam and Batticaloa districts are the areas that have been reported on."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "Over 54% Schools Have Dengue Breeding Sites",
+                "_score": 6.7478886,
+                "_source": {
+                    "content": "Health authorities found that over 54 percent of schools have dengue mosquito breeding sites.\r\nIn addition, 40 percent of religious institutions and 36 percent of construction sites have either dengue larvae or dengue mosquito breeding sites, Director General Health Services, Dr. Palitha Mahipala said. Addressing the media at the Epidemiology Unit, he said that 5,263 dengue cases had been reported countrywide during this year and the death rate has gone down to 1.5 percent. Fifty eight dengue deaths were reported last year.\r\nAccording to Dr. Mahipala, a special mosquito eradication week will commence from March 29. A three day dengue eradication programme will be held on February 11, 12 and 13 focusing on high risk MOH areas.\r\nHealth officials, members of Armed Forces etc will take part in this programme. Special attention will be paid to schools.\r\nDr. Mahipala pointed out that people should seek prompt medical treatment from a state hospital, if they suffer from any type of fever for more than two days. Prompt medical treatment obtained from a state hospital can save lives, because dengue patients can avoid serious complications such as Dengue Hemorrhagic Fever (DHF) and Dengue Shock Syndrome by seeking medical treatment without delay.\r\nPatients suffering from fever should only take paracetamol and should refrain from taking any other medications or pain killers. Other medications can lead to complications such as internal bleeding, if the patient is suffering from dengue fever."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "Fake doctor who was arrested from the Dambulla Hospital to receive mental health treatment",
+                "_score": 6.742334,
+                "_source": {
+                    "content": "A 21-year-old individual, who reportedly impersonated as a doctor, has been arrested by the police at the Dambulla Base hospital this morning.The court ordered to direct the suspect to a psychiatrist to study his mental health condition.The police have also found a fake identity card and a stethoscope at the time of the arrest.Meanwhile the Government medical officer’s association states that there are around 10 thousand bogus doctors’ island wide."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "Health Minister Rajitha Senarathne On Leave",
+                "_score": 6.742334,
+                "_source": {
+                    "content": "Health Minister Rajitha Senarathne who was abroad seeking medical care has returned to the country last night in Sri Lankan Airlines UL 309 flight from Singapore. \r\nUpon the arrival, the minister plans to receive a week-long bed rest for a speedier recovery, stated a spokesperson of the minister to Hiru News. \r\nDue to a sudden ailment, Minister Senarathne was taken to the Mount Elizabeth hospital in Singapore for treatment on February 16th."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "Damage assessment on Health Ministry property begins",
+                "_score": 6.7326627,
+                "_source": {
+                    "content": "Police Media spokesman DIG Priyantha Jayakody says that police expect to take legal action against those who caused damage to public property during the protest held against Malabe Private Medical School inside the Health Ministry premises yesterday.Addressing a media conference held in Colombo today, DIG Jayakody said that the damage assessment is conducted in this regard.90 student activists who received injuries during the clash were admitted to Colombo National Hospital yesterday. Hospital spokesperson stated that 3 female students are still receiving indoor treatment.Five police officers who also received injuries during the clash were transferred from Colombo National Hospital to Police hospital today.Meanwhile, Health Minister Rajitha Senarathna expressed his views about the protest held by university students at his ministry. He was speaking at a media conference held at the Department of Information this afternoon.At the same time, students of Colombo, Sabaragamuwa, Sri Jayewardenepura and Peradeniya universities had organized protests today against the police attack on the IUSF protestors."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "Nomination stress sends Sampanthan to hospital",
+                "_score": 6.7294965,
+                "_source": {
+                    "content": "The Opposition Leader and Leader of Tamil National Alliance R. Sampanthan has been hospitalized due to a stress-related ailment. He is being treated at a private hospital in Colombo. A family source said that Sampanthan was preparing the party nomination lists in Trincomalee over the last few days ignoring medical advice to rest. He was also to leave for India today (22) and that visit has also been cancelled, the source said."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "Student and the father of one referred to medical tests after release",
+                "_score": 6.7195063,
+                "_source": {
+                    "content": "The Director of Gampaha Hospital H.P.W. Hewapathirana stated the 17-year student and the father of one would be referred to medical tests today. \r\nThe two were admitted to hospital after releasing them by Court as their DNA were not matched with the samples of the murdered girl of Kotadeniyawa.\r\nThe hospital director told our news team a medical test will be carried out on the two to ascertain whether the police assaulted the two after they were arrested in connection with the Kotadeniyawa girl’s murder.\r\nMeanwhile, attorney-at-law appeared on behalf of the student, Tharanga Weerasinghe stated the student was hospitalized due a sudden illness.\r\nQuoting the student, Attorney-at-law Weerasinghe said that he reported to Court about an assault on the student during police custody.\r\nFriday, 02 October 2015 - 12:56---------------------------------------17 year old student and the father of one released, hospitalised over sudden illness.  \r\nThe 17-year old schoolboy and the father of one who had been in remand custody on suspicion over the killing of Seya Sadevmi of Kotadeniyava were released yesterday and last night they were admitted to the Gampaha General Hospital.\r\nAn attorney-at-law, Tharanga Weerasinghe appearing for the schoolboy said that the two had been hospitalised yesterday owing to their sudden condition of illness caused by assault on them when they were in police custody.\r\nMinuwangoda Chief Magistrate D. A. Ruwan Pathirana yesterday released the schoolboy and the father of one as their D.N.A. reports did not match with the D.N.A reports of Seya Sadewmi."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "Another successful heart transplant in Kandy",
+                "_score": 6.693784,
+                "_source": {
+                    "content": "A group of medical specialists at the Kandy Teaching Hospital’s Cardiology and Cardiothoracic Unit has conducted the second successful heart transplant to be conducted in Sri Lanka.\r\nThe operation, which was started at around 8pm yesterday (26), concluded at 5am today.\r\nThe recipient of the heart was 19-year-old, Sachini Sewwandhi, a resident of Kaluwa Modera, Aluthgama.\r\nThe Director of Kandy Teaching Hospital, Dr. Samantha Ratnayake said Sewwandhi's heart was functioning only 10% when specialists decided to conduct a heart transplant.\r\nThe group of doctors, led by Heart Specialist Dr. Anil Abeywickrema, conducted the surgery.\r\nDr. Ratnayake said it was the same group who conducted the country’s first ever heart transplant, two months ago, took part in this transplant operation also.\r\nSewwandhi’s father, Chaminda Mahesh Kumara, who is a driver by profession said his eldest daughter died 7 years ago due to a heart ailment.\r\nAccording to him, Sewwandhi has been suffering from a heart ailment for the last six years and they did their utmost to secure her life.\r\nThen they have decided to meet Dr. Ratnayake at the Kandy Teaching Hospital and he had referred Sewwandi to Heart Specialist, Dr. Anil Abeywickrema. \r\nSewwandhi’s mother, Priyanka Nilmini said she stayed at the hospital with her daughter since March this year, hoping that doctors would help them save their child.\r\nShe also expressed their gratitude to the parents of the youth who died at the hospital, for agreeing to donate the heart of the youth to be transplanted to Sewwandhi.\r\nShe is now kept at the ICU with close medical attention, the Director of the Kandy Teaching Hospital, Dr. Ratnayake said.The donor was Nalinda Sakalasuriya, who had died in a road accident, at Haragama on 21st of this month.\r\n His father told us, most of the organs of Nalinda were donated to be transplanted.\r\n "
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "UPDATE: Stock of expired pharmaceuticals found in the controversial beauty parlour",
+                "_score": 6.6817904,
+                "_source": {
+                    "content": "A stock of expired pharmaceuticals has been found today from the controversial beauty parlor at Visaka Road in Bambalapitiya where a female doctor died after giving an anti-aging jab.Acting on a court warrant, the Government Analyst, the Colombo Judiciary Medical Officer accompanied by the police team that is investigating the incident has searched the premises of the beauty parlor today.Police Media Spokesman SSP Ajith Rohana said the expired drugs were found during the search operation.Meanwhile Colombo Additional Magistrate Chandima Liyanage remanded owner of the beauty parlor Dr. Nimal Gamage until the 18th of this month when the suspect was produced before the court yesterday.Sri Lanka Plastic Surgeons Association Secretary Dr. Romesh Gunasekera said 49-year old victim Dr. P.A. Priyangi was attached to the Plastic Surgery Unit of the Lady Ridgeway Hospital for children.Meanwhile Colombo Special Judiciary Medical Officer Dr. Sriyantha Amarasena who held the post mortem, gave an open verdict, and ordered to send the body parts to the government analyst in order to find the cause of the death.At the same time, the GMOA told a media briefing held in Colombo today that the suspect is not a member of the doctors’ association.GMOA Central Working Committee member Dr. Haritha Aluthge said the suspect has registered under the Private Medical Institution Act to operate his beauty parlor in Bambalapitiya.However Sri Lanka Medical Council President Professor Carlo Fonseka said suspect Dr. Nimal Gamage is legally registered with the Medical Council.Related story published below :http://www.hirunews.lk/89367/update-investigative-team-pharmaceutical-authority-storms-cosmetic-surgery-clinic-video"
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "IUSF protest against SAITM in fort today as well",
+                "_score": 6.6636224,
+                "_source": {
+                    "content": "A protest march by the IUSF and Medical Faculty student activists demanding the cancellation of Malabe Private Medical School was held today again. The protest which began from the Faculty of Aesthetic Studies of the University of Colombo concluded at the Fort Railway Station. Heavy traffic was reported around Colombo Fort due to the protest march. IUSF acting convener Sanath Bandara expressed his views at the rally held in front of the Fort Railway Station. Meanwhile, the Colombo Fort Magistrate ordered to hold the protest march without causing any inconvenience to the public. It had prohibited forcible entry to government institutions and breaching law and order. Meantime, former SLMC chairman Professor Carlo Fonseka stated that SAITM issue will not be solved merely because Neville Fernando hospital was taken over by the government."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "Ven. Sobhitha Thero has been infected with two kinds of bacteria at a hospital",
+                "_score": 6.658576,
+                "_source": {
+                    "content": "The government doctors union states that an unbiased inspection should be conducted in to the death of the late venerable Maaduluwaawe Sobitha Thero.\r\nMeanwhile we have received a medical report explaining the reverend’s health condition.\r\nAccording to the medical reports it is evident that the venerable Sobitha thero has been infected with two kinds of bacteria which a patient could be infected while being at a hospital.\r\nAccordingly, the reports indicate that he has been infected with Pseudomonas aeruginosa and Acinetobacter viruses.\r\nThe other day professor Carlo Fonseka has stated through a newspaper report that the doctors’ union could have shown much more concern regarding the reverend Sobitha Thero. \r\nThe government doctors union further states that the government should conduct a proper investigation into the death of the reverend."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "Fever in South : Death toll risen to 13",
+                "_score": 6.658576,
+                "_source": {
+                    "content": "Health authorities say 13 persons including 11 children have died from a viral fever spreading in the Southern Province.\r\n \r\nSouthern Province health authorities say that the fever is caused by influenza virus along with the Adino virus and pneumococcal bacteria.\r\n \r\nEarlier, 5 children died at the Karapitiya Teaching Hospital and 3 of them were affected by influenza and other 2 had infected with the Adino virus and pneumococcal bacteria.\r\n \r\nSo far blood samples of 84 persons have been sent to Medical Research Institute in Borella for testing and 27 of those have been infected with influenza along with Adino virus and pneumococcal bacteria.\r\n \r\nThe health authorities say pregnant mothers and small children are more prone to this disease.\r\n \r\nThey urge the public to seek medical advice if fever persists more than one day."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "Health Ministry investigation on Ragama hospital labour room dispute.",
+                "_score": 6.655409,
+                "_source": {
+                    "content": "The Health Ministry has taken measures to conduct an inquiry regarding the incident which occurred yesterday at Ragama Teaching Hospital.The Director of the Hospital Doctor Mahinda Samaranayake told our news team that 2 Director Generals have already commenced the inquiry.The Government Midwives Services Association stated that 11 midwives attached to the labour rooms of Ragama Teaching Hospital have been detained since the 26th of the month.Later, a clash occurred when the junior staff and midwives tried to rescue the detained midwives yesterday.Several Midwives, 7 Junior staff members as well as 2 nurses who received injuries are currently receiving medical attention.However, the nurses of the Ragama Teaching Hospital are still engaged in a trade union action.The Chairman of Government Nursing Officers’ Association Saman Ratnapriya stated that even though they carry out essential services, the trade union action will not be suspended until their safety is ensured. "
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "Another strike looming!",
+                "_score": 6.627783,
+                "_source": {
+                    "content": "A fast launched by the trade unions of Ceylon Electricity Board has been held for a 3rd day today (13).\r\n \r\nThey have launched this citing that only authorities have got their salaries increased while abolishing medical and bonus allowances of other staff.\r\n \r\nThe Secretary of Lanka Viduli Sevaka Sangamaya, Ranjan Jayalal said they would resort to launch a strike if this matter was not solved.\r\n \r\nMeanwhile, trade union alliance of Ceylon Petroleum Corporation is planning to commence a strike with the support of several other trade unions.\r\n \r\nIts Convener D. J. Rajakaruna told us they would discuss with political parties in future about their plans as there are plans yet again to sell the Trincomalee Oil Tank farm to India.\r\n \r\nThe CPC trade unions staged a strike earlier too on the same matter.\r\n \r\nMeanwhile, the doctors of Kinniya Hospital in Trincomalee commenced a strike action yesterday, urging the authorities to solve an issue relating to post-intern doctor appointments.\r\n \r\nThe doctors of Muttur Hospital joined the strike today and the Government Medical Officers' Association said tomorrow all the hospitals in Trincomalee would join the agitation tomorrow (14)."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "School Girl Dead and Three Others Hospitalized after Consuming Biscuits and Soft Drink",
+                "_score": 6.605339,
+                "_source": {
+                    "content": "A six year old girl from Kahatagasdigiliya, Anuradhapura has passed away after consuming biscuits, lotus seeds and carbonated soft drink.  \r\nAnuradhapura police noted that three other school girls are seeking medical treatment at Anuradhapura base hospital.\r\nThose three are of 11, 16 and 17 years of age.\r\nHowever, it has not been confirmed if the 6 year-old girl’s death caused by food poisoning and a analyst test is scheduled to find out the cause of death."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "doctors on strike today",
+                "_score": 6.5904374,
+                "_source": {
+                    "content": "Over a thousand doctors attached to the Colombo National Hospital will stage a 24 hours strike today demanding the government to resolve irregularities in their annual transfers.\r\nthe Government Medical Officers' Association stated doctors apply for transfers when the Ministry of Health advertises vacancies and openings in other areas, and such advertisements are placed every year.\r\nHowever, this year, the vacancies that are available were hidden from the doctors by the ministry, a GMOA office bearer said.\r\nThe strike action will commence at 8:00 a.m. and continue till 8:00 a.m. tomorrow. According to the GMOA official, only the Colombo National Hospital will engage in the trade union action, but other hospitals around the island will join in, depending on the government's response."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "Central Provincial doctors on a trade union action today",
+                "_score": 6.5696006,
+                "_source": {
+                    "content": "Government Doctors at several hospitals in the Central Province are engaged in a Trade Union action today against the actions of the Governor of the Central Province Tikiri Kobbekaduwa.\r\n \r\nThe Government Medical Officers Association stated that the trade union action is in place at the Nuwara-eliya General Hospital, District Hospitals and Central Pharmacies.\r\n \r\nMedia Spokesperson of the GMOA Dr. Naveen De Zoysa stated that the Central Province Governor had insulted the Doctors of the Province at a dengue eradication programme yesterday.\r\n "
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "Recommendation to take Neville Fernando hospital under the government",
+                "_score": 6.5696006,
+                "_source": {
+                    "content": "The Supervisory Working Board on education and human development has recommended taking over Malabe Neville Fernando private hospital.\r\nA member of this working board MP Ashu Marasinghe expressing his views over the report in parliament today said the working board has recommended setting up a separate institution to supervise Malabe Private Medical School.\r\nToday is the 4th day of the committee stage budget debate and the heads of Higher Education and Highways, Science, Technology and Skills Development will be taken up for debate."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "There is no intention, discussion or necessity to take former MP Duminda Silva overseas for medical treatment- his father says",
+                "_score": 6.5256033,
+                "_source": {
+                    "content": "There is no intention, discussion or necessity to take former parliamentarian Duminda Silva overseas for medical treatment, his father Lal Silva says.He pointed out that reports published on certain media outlets stating that attempts are made to take him overseas are fabricated and issued with malicious intentions.  He further said it is seen that reports published in newspapers and websites stating that there is an attempt to take former MP Duminda Silva from prison for overseas treatment are politically motivated.He said that former MP Duminda Silva is a patient with two serious gunshot wounds in his head; therefore he constantly needs treatment for his injuries.\r\nAccordingly, former MP Duminda Silva was taken to Sri Jayewardenepura General Hospital by prison authorities recently due to health complications. He was taken to the hospital because neurosurgeon Dr. Maheshi Wijeratne, who treated him after he was shot in the head, was consulting there and also as prison officials decided that only she should investigate into his condition.\r\nHowever, it is reported that former MP Duminda Silva had been sent back to prison by hospital authorities without attending to him nor treating him when he was taken to the Sri Jayewardenepura hospital by prison officials.\r\nA hospital spokesman was quoted on a website stating that former MP Duminda Silva was turned away by the hospital staff after they refused to treat prisoners.Former MP Duminda Silva’s father added that the fabricated stories published in newspapers and websites stating that attempts are being made to take him to Singapore are causing inconvenience to his family and him.He pointed out that it should be clearly stated that there was a certain group that attempted to gain benefit by publicizing such fabricated stories when the case was taken up in courts previously.  \r\nHe stressed that there is no intention, discussion or necessity to take former MP Duminda Silva overseas for medical treatment as it is also against prison laws to take him to a private hospital for treatment. He said he is fearing for former MP’s life in these circumstances.\r\n\r\nFollowing is a Facebook post by former MP Duminda Silva’s sister..Following photographs depict how former MP Duminda Silva was treated after he was shot twice in the head and critically wounded"
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "Gold Coins found in Condoms",
+                "_score": 6.5181155,
+                "_source": {
+                    "content": "A Sri Lankan individual who landed in Kochi airport was admitted to the Government Medical College, Ernakulam, on Monday after he attempted to smuggle gold into the country by swallowing it.\r\nHe showed signs of uneasiness, which raised suspicion among officials. They initially thought he had concealed gold nuggets in rectum, a common ploy of smugglers, but he later confessed to swallowing gold coins. He was shifted to the hospital after he complained of weakness. Officials said one gold coin was removed from his stomach at the hospital.\r\nHospital sources said the person had swallowed 13 gold coins, wrapped in condoms. “We put him through X-ray and ultrasound scans and spotted the coins. His condition is stable but it can turn worse if the remaining coins get stuck in the stomach,” they stated.\r\nCustoms officials have recovered two gold bars and a chain from the Sri Lankan national's possession. (The Hindu)"
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "Father jumps before train with 8-month infant",
+                "_score": 6.5030155,
+                "_source": {
+                    "content": "A 30-year-old father has jumped before a moving train with his 8-month old infant in Pallekotuwa area in Wellawa, Kurunegala.\r\n \r\nPolice Media Spokesperson's office said that the incident occurred last afternoon (Apr. 22).\r\n \r\nThey had jumped before Matara bound train from Kankesanthirai and police believe family dispute may have the reason for the tragedy.\r\n \r\nThe 30-year-old person was living with her second wife.\r\n \r\nThe bodies are kept at Kurunegala Hospital and judicial medical inquiry will be held today."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "A thera from the Inter-university Bhikshu Federation arrested whilst receiving treatment; A tense situation between students and police at Karaapitiya",
+                "_score": 6.501786,
+                "_source": {
+                    "content": "The convener of the Inter – University Bhikshu Federation Venerable Tam-piti-yey Suga-thaa-nanda Thera was remanded while he was receiving treatment at Colombo National Hospital yesterday.\r\nAdditional Maaligaa-kanda Magistrate visited the National Hospital last night and after observing the Thera,  ordered that the Thera be remanded till 5th of next month.\r\nThe thera is currently receiving treatment, as an in-patient under police protection for injuries sustained during the police assault levelled against university students on Wednesday.\r\nOn Thursday,  several police officers visited the thera in hospital to obtain a statement.\r\na group of university students who had received word about the authorities preparing to arrest the thera, made their way to Colombo National Hospital.\r\nPolice said that the Thera was arrested for forcibly entering the ministry of Health premises, and causing damage to property. \r\nSeveral universities students were engaged in a demonstration yesterday to  voiced against the police assault.\r\nPolice stood against this protest launched by Karapitiya Medical Faculty students, resulting a tense situation.\r\n90 university students were admitted to the Colombo National Hospital with injuries sustained during the clash between the police and the students on Wednesday.\r\nA national hospital spokeswoman said that three persons, including a monk had been admitted as in patients and were receiving ongoing treatment .\r\nFive police personnel who had been admitted to Colombo National Hospital were later admitted to the police hospital for treatment. "
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "One Died and Five Hospitalized As Chena Hut collapsed",
+                "_score": 6.4897285,
+                "_source": {
+                    "content": "A 57 year-old individual has died and five others have hospitalized as a chena hut built on an enormous tree collapsed.\r\nThe accident is reported from kalagama area in Galkiriyagama, Anuradhapura.\r\nPolice investigations have confirmed that the chena hut built 25 feet above the ground on a tree, has collapsed as wooden stick used in the hut had broken.  \r\nThe demised is a father of two resided in Kalagama area.\r\nThe injured are receiving medical treatments in Dambulla hospital."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "Chairman of Kelaniya Pradeshiya sabha transferred from Kiribathgoda to Ragama hospital",
+                "_score": 6.4781413,
+                "_source": {
+                    "content": "Chairman of the Kelaniya Pradeshiya Sabha Prsanna Ranaweera & UPFA provincial councilor Nadeeka Sampath who were admitted hospital following assault have been transferred to the Ragama hospital for further treatment.\r\nAccording to the Medical Superintendent of the Kiribathgoda hospital Dr. S.A. Withanage the victims are said to be in a non-critical state.\r\nMoreover a protest was organized before the Kiribathgoda hospital denouncing the assault.\r\nUPFA Provincial Councilor of the Kalaniya Pradeshiya Sabha who was present during the protest accused supporters of Minister Mervyn Silva  of having carried out the assault.\r\n\n\t\t\t   \n\t\t\t   \t\t\n\t\n\t\t\t   \r\nA complaint in this regard has been lodged at the Kiribathgoda police station by the Chairman of the Kelaniya Pradeshiya Sabha.\r\nMoreover when inquired by police it was noted that another individual who had claimed to have been assaulted had lodged a complaint with police.\r\nWhen attempts were made to contact Minister Mervyn Silva in this regard, a coordinating officer for the minister who answered the phone informed our news team that the minister was in a engaged in a discussion."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "Video : Ground breaking operation in the Badulla Hospital",
+                "_score": 6.4517894,
+                "_source": {
+                    "content": "For the first time in the history of Sri Lanka, a group of doctors of the Badulla Hospital have successfully removed a tumor from a patient which had spread from the rectum to the live using observations cameras after making a 4 centimeter incision.The doctors stated that the tumor which is usually requires two stages to remove, was removed in one operation and that it was a significant moment in the medical field of the country.The two stage operation would require a one and a half foot incision to be made on the patient’s body.Speaking to our news team, Chief Oncologist of the Badulla Hospital Dr. Anuruddha Thevarapperuma stated that due to use of modern technology the blood loss was also significantly reduced."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "Death Toll of Ballapana Bus-Van Collision Rises to 7",
+                "_score": 6.4449115,
+                "_source": {
+                    "content": "Three persons demised as a bus collided with a van in Ballapana in Galigamuwa area along Colombo- Kandy road.\r\nDeath toll of Ballapana junction road accident has escalated to seven.\r\nThree- a woman and two men demised on-the-spot as a private bus collided with a van in Ballapana junction in Galigamuwa area along Colombo- Kandy road.\r\nAnother woman who was among hospitalized 10, succumbed to injuries last evening.\r\nMeanwhile, three more people have demised today while receiving medical treatments at Kegalle base hospital.\r\nAll who demised were passengers in the van which was heading back to homes in Nittambuwa and Urapola after visiting the Temple of Tooth in Kandy.\r\nThe dead bodies remain at Kegalle base hospital morgue."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "Investigations conclude in the Matara Hospital regarding amputation of law student's left arm",
+                "_score": 6.4159384,
+                "_source": {
+                    "content": "The inquiry regarding the amputation of the left arm of law student Achala Priyadharshani who was admitted to the Matara General  Hospital following a fracture has been concluded.\r\n\r\nShe was transferred to the Colombo General Hospital after she developed a severe pain in her arm which was bandaged at the Matara General Hospital.\r\n\r\nDue to the nerve damage in her arm, the doctors in the Colombo   General Hospital had amputated her arm.\r\n\r\nThe ministry of health had appointed two teams to inquire into the incident and one team comprised of 3 specialist doctors.\r\n\r\nSpeaking to our news team Medical Services Director of the Ministry of health Dr. Lal Panapitiya gave the following update on the inquiry.\r\n \r\n\n\t\t\t   \n\t\t\t   \t\t\n\t\n\t\t\t   \r\n\r\nA group of law students from the faculty of law in the Colombo  University has lodged a complaint at the Human Rights Commission stating that her human rights were violated.\r\n\r\nSenior Attorney at Law and Commissioner of the Human Rights Commission Prathiba Mahanamahewa provided the following update with regard to the investigation of the complaint.\r\n\r\n\n\t\t\t   \n\t\t\t   \t\t\n\t\n\t\t\t   \r\n\r\nVarious parties are blaming the doctors who treated Achala Priyadharshani and holding them responsible for the amputation of her left arm.\r\n\r\nHowever, the Government Medical Officers Association is stating that it is unfair to level accusations until the investigation is concluded.\r\n\r\nThe media spokesperson of the GMOA Dr. Naveen De Soyza expressed his views in the following manner.\r\n\r\n\n\t\t\t   \n\t\t\t   \t\t\n\t\n\t\t\t   \r\n\r\nMinister of health Maithreepala Sirisena had visited Achala Priyadharshani recently at the Colombo General Hospital and opposition leader Ranil Wickramasinghe had visited her today at the hospital.\r\n\r\n\n\t\t\t   \n\t\t\t   \t\t\n\t\n\t\t\t   \r\n\r\nFormer vice chancellor of the Colombo University and former Dean of the Law Faculty Prof. G. L. Peiris' attention has also turned towards the plight of Achala Priyadharshani.\r\n\r\nThe Colombo Law Faculty Students union was scheduled to meet the minister today.\r\n\r\nThe Colombo law faculty has established a fund to obtain a prosthetic arm for Achala Priyadharshani under the theme An Arm for Achala, Justice for Negligence\".\r\n\r\nThose who wish to donate funds can do so by calling 071 51 14 139, 071 88 25 329 and 071 22 40 405."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "Iron nails in the remains found from Matale mass grave",
+                "_score": 6.411581,
+                "_source": {
+                    "content": "Attorney appearing on behalf of the aggrieved party pertaining to the case been heard at the Matale Magistrates Court says that the persons whose remains were found from the Matale mass grave have shown signs to have been tortured before their deaths.He stated that as per the medical reports submitted to courts certain skulls had iron nails pierced through them while some had marks caused by sharp weapons.Around 154 skeletal remains were found during excavations carried out to construct a Bio Gas unit at the Matale Hospital since the 23rd of November 2012. "
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "GMOA strike to continue; Minster says it is a misunderstanding",
+                "_score": 6.411581,
+                "_source": {
+                    "content": "The token strike launched by the GMOA at 8am this morning will continue until 8am tomorrow. Hospital directors said that daily clinical functions of government hospitals where the strike was staged were crippled.  However, emergency services continued without any disturbance. GMOA started the strike from 8am today stating the state service and free health service are being influenced by Budget proposals. The Medical Services United Front also joined in the GMOA’s token strike. Our correspondent stated that certain individuals who were part of the strike, engaged in protest campaigns in front of hospitals."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "16-year-old Matugama girl abducted and sexually abused",
+                "_score": 6.411581,
+                "_source": {
+                    "content": "A 16-year-old girl who came to Dodangoda to attend a music class, had been abducted by three youths and molested her.\r\nPolice said they had abducted the girl using a three-wheeler.\r\nThe victim had told the police that only one of the three youths had sexually abused her.\r\nThe girl who is studying at a popular school in Matugama, was later abandoned at a bus halt by the suspects.\r\nShe was later admitted to the Nagoda Hospital for a medical test. Police investigations continue to apprehend the suspected youths."
+                }
+            },
+            {
+                "_index": "hirunews",
+                "_type": "doc",
+                "_id": "Anti-SAITM strike disrupts hospital functions",
+                "_score": 6.411581,
+                "_source": {
+                    "content": "A strike launched by Government Medical Officers’ Association and several other trade unions against SAITM has affected the functions at hospitals, schools and universities in Sri Lanka today (21).\r\nThe OPD and clinical services have been gravely affected, in a number of hospital.\r\nHowever, our correspondents said that the emergency and essential services have not been affected by the strike.\r\nMeanwhile, Ceylon Teachers' Services Union disclosed that teacher turnout in rural schools declined by 80%, while in urban schools 50 % of teaching staff did not report to work today."
+                }
+            }
+        ]
+    }
+}
